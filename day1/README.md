@@ -14,7 +14,7 @@ This is a one-time process to prepare your local machine for the entire bootcamp
 
 ### Step 1: Fork the Repository
 
-1.  Navigate to the main bootcamp repository on GitHub: [Instructor's GitHub Repo URL](https://github.com/georgeaaron7/bootycamp)
+1.  Navigate to the main bootcamp repository on GitHub: [GitHub Repo URL](https://github.com/georgeaaron7/bootycamp)
 2.  Click the **Fork** button in the top right corner. This creates a complete copy of the repository under your personal GitHub account. This copy is your **`origin`** remote.
 
 ### Step 2: Clone Your Fork
@@ -29,7 +29,7 @@ This is a one-time process to prepare your local machine for the entire bootcamp
 
 ### Step 3: Set the Upstream Remote
 
-Set up the original repository as the `upstream` remote. This is how you will pull new instructions and starting files from the instructor throughout the bootcamp.
+Set up the original repository as the `upstream` remote. This is how you will pull new instructions and starting files from the original repo throughout the bootcamp.
 
 ```bash
     # Add the original repo as 'upstream'
