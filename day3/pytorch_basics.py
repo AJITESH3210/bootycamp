@@ -90,4 +90,4 @@ print(f"L (x={x.item()}, w={w.item()}) = ", L)
 L.backward() # Using Backward function to calculate gradients
 
 print("dL/dx =", x.grad) # Gradient of L wrt x at the value of x
-print("dL/dw =", w.grad) # Gradient of L wrt w at the value of w
+print("dL/dw =", w.grad) # Gradient of L wrt w at the value of wgit checkout main
